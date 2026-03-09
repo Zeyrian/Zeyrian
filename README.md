@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Zeyrian :wave:
 
-<!--
-**Zeyrian/Zeyrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity student who enjoys building software and learning how systems work under the hood.  
+My projects focus on programming, problem solving and security related tools.
 
-Here are some ideas to get you started:
+### Current focus
+- Python programming
+- Data structures and algorithms
+- Security related scripting and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+- Python
+- Git and GitHub
+- Linux
+- VS Code
