@@ -9,7 +9,7 @@ I build Python projects to strengthen my programming and security skills.</b>
 
 - Python
 - SQL (basic)
-- Lua
+- Linux CLI
 - Git and GitHub
 - Windows Event Viewer log analysis
 
