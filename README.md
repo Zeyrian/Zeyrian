@@ -16,6 +16,9 @@ I build Python projects to strengthen my programming and security skills.</b>
 <h2>🖥️ Cybersecurity Projects:</h2>
 
 - <b>Python</b>
+  - <a href="https://github.com/Zeyrian/Account-Manager-v2">Account Manager v2</a>  
+    Account management system with bcrypt hashing, persistent storage and password strength enforcement.
+    
   - <a href="https://github.com/Zeyrian/Python-Account-Manager">Simple Account Manager</a>  
     Role based account management system with login protection and password policies.
     
