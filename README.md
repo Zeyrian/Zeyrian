@@ -16,11 +16,12 @@ I build Python projects to strengthen my programming and security skills.</b>
 <h2>🖥️ Cybersecurity Projects:</h2>
 
 - <b>Python</b>
+  - <a href="https://github.com/Zeyrian/Python-Account-Manager">Simple Account Manager</a>  
+    Role based account management system with login protection and password policies.
+    
   - <a href="https://github.com/Zeyrian/Login-Log-Analyser">Login Log Analyser</a>  
     Analyses authentication logs to detect brute force attempts and compromised accounts.
   
-  - <a href="https://github.com/Zeyrian/Python-Account-Manager">Simple Account Manager</a>  
-    Role based account management system with login protection and password policies.
 
 <h2> 🤳 Connect with me:</h2>
 
