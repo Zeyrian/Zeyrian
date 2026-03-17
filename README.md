@@ -12,6 +12,7 @@ I build Python projects to strengthen my programming and security skills.</b>
 - Linux CLI
 - Git and GitHub
 - Windows Event Viewer log analysis
+- Splunk (Basic via TryHackMe)
 
 <h2>🖥️ Cybersecurity Projects:</h2>
 
