@@ -1,20 +1,30 @@
 <h1>Hello, I'm Zeyrian! <br/> <a href="https://www.linkedin.com/in/zeyrian-faris-a939a3301/">Cybersecurity Student</a>
 
-<h2>🙋‍♂️ About Me</h2>
+# 🙋‍♂️ About Me
 
-<b>I am pursuing a diploma in Cybersecurity and Digital Forensics. 
-I build Python projects to strengthen my programming and security skills.</b>
+I am pursuing a diploma in Cybersecurity and Digital Forensics. Outside of class, I build projects to apply what I learn and explore new ideas..</b>
+
+# 🚀 Featured Project
+
+### [fourpointo](https://github.com/Zeyrian/fourpointo) · [fourpointo.app](https://fourpointo.app)
+
+A Flask web app where polytechnic students upload an assignment brief and AI generates a structured task list from the spec. Self-hosted on a repurposed Dell Latitude 7300 running Ubuntu Server via Cloudflare Tunnel. 
+
+Authentication is handled with bcrypt password hashing, unique salts per user, and parameterised database queries to prevent SQL injection.
+
+**Stack:** Python · Flask · SQLite · Groq (LLaMA 3.3 70B) · Cloudflare · Gunicorn
+
+**Skills demonstrated:** Web development · Linux server administration · Network configuration · AI integration · Secure coding practices
+
+---
 
 <h2>🛠️ Skills</h2>
 
 - Python
 - SQL (basic)
 - Linux CLI
-- Git and GitHub
-- Windows Event Viewer log analysis
-- Splunk (Basic via TryHackMe)
 
-<h2>🖥️ Cybersecurity Projects:</h2>
+<h2> 🖥️ Cybersecurity Projects: </h2>
 
 - <b>Python</b>
   - <a href="https://github.com/Zeyrian/Account-Manager-v2">Account Manager v2</a>  
