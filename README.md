@@ -8,7 +8,7 @@ I am pursuing a diploma in Cybersecurity and Digital Forensics. Outside of class
 
 ### [fourpointo](https://github.com/Zeyrian/fourpointo) · [fourpointo.app](https://fourpointo.app)
 
-A Flask web app where polytechnic students upload an assignment brief and AI generates a structured task list from the spec. Self-hosted on a repurposed Dell Latitude 7300 running Ubuntu Server via Cloudflare Tunnel. 
+A Flask web app where polytechnic students upload an assignment brief and AI generates a structured task list from the spec. It is self-hosted on a repurposed Dell Latitude 7300 running Ubuntu Server via Cloudflare Tunnel. 
 
 Authentication is handled with bcrypt password hashing, unique salts per user, and parameterised database queries to prevent SQL injection.
 
